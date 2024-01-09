@@ -4,7 +4,7 @@ Frontend Developer
 
 <contato.igor.pimentel@gmail.com>
 
-Olá! Sou um entusiasta da tecnologia com um forte desejo de explorar e criar soluções inovadoras. Meu nome é Igor Pimentel Gameiro, recentemente formado em Análise e Desenvolvimento de Sistemas pela Unama Belém, e estou pronto para embarcar nesta emocionante jornada como desenvolvedor FullStack Junior.
+Meu nome é Igor Pimentel Gameiro, recentemente formado em Análise e Desenvolvimento de Sistemas (12/2023) pela Unama Belém, e estou pronto para embarcar nesta emocionante jornada como desenvolvedor FullStack Junior.
 
 Durante minha jornada acadêmica, mergulhei profundamente no mundo da programação, adquirindo habilidades em diversas, como Interface de programação de aplicações com Wordpress, linguagens, como JavaScript, Python, PHP e Java, além de me familiarizar com frameworks como Bootstrap, React, Node.js e Spring Boot. Essa base sólida me permitiu abordar projetos desafiadores, desde a criação de aplicações web até o desenvolvimento de soluções dinâmicas e escaláveis.
 
