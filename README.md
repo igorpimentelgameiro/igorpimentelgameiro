@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Sou Igor Pimentel Gameiro recém-formado em Análise e Desenvolvimento de Sistemas pela Unama Belém (12/2023)<strong>Desenvolvedor FullStack Junior</strong>.<br>
+ Olá! Sou Igor Pimentel Gameiro recém-formado em Análise e Desenvolvimento de Sistemas pela Unama Belém (12/2023)
+ <strong>Desenvolvedor FullStack Junior</strong>.<br>
 Em minha carreira, adquiri habilidades em JavaScript, Python, PHP e Java, além de experiência com Wordpress, Bootstrap, React, Node.js e Spring Boot. Essas capacidades me permitiram enfrentar projetos desafiadores, desde aplicações web até soluções dinâmicas e escaláveis. Integrei também conhecimento em MySQL para a gestão e manipulação eficiente de dados, além de familiaridade com Docker para o desenvolvimento e implementação eficaz de ambientes de aplicativos em containers.
 </p>
 
