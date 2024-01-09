@@ -1,20 +1,29 @@
-Frontend Developer
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<https://www.linkedin.com/in/igorpimentelgameiro/> 
+<p align="left"> 
+ Olá! Sou Igor Pimentel Gameiro recém-formado em Análise e Desenvolvimento de Sistemas pela Unama Belém (12/2023)<strong>Desenvolvedor FullStack Junior</strong>.<br>
+Em minha carreira, adquiri habilidades em JavaScript, Python, PHP e Java, além de experiência com Wordpress, Bootstrap, React, Node.js e Spring Boot. Essas capacidades me permitiram enfrentar projetos desafiadores, desde aplicações web até soluções dinâmicas e escaláveis. Integrei também conhecimento em MySQL para a gestão e manipulação eficiente de dados, além de familiaridade com Docker para o desenvolvimento e implementação eficaz de ambientes de aplicativos em containers.
+</p>
 
-<contato.igor.pimentel@gmail.com>
+<p align="left">
+  🦄 Linguagens: JavaScript, Python, PHP e Java
+</p>
 
-Meu nome é Igor Pimentel Gameiro, recentemente formado em Análise e Desenvolvimento de Sistemas (12/2023) pela Unama Belém, e estou pronto para embarcar nesta emocionante jornada como desenvolvedor FullStack Junior.
+<p align="left">
+  💼 Ferramentas: Office 365, VScode, Asana
+</p>
 
-Durante minha jornada acadêmica, mergulhei profundamente no mundo da programação, adquirindo habilidades em diversas, como Interface de programação de aplicações com Wordpress, linguagens, como JavaScript, Python, PHP e Java, além de me familiarizar com frameworks como Bootstrap, React, Node.js e Spring Boot. Essa base sólida me permitiu abordar projetos desafiadores, desde a criação de aplicações web até o desenvolvimento de soluções dinâmicas e escaláveis.
+<p align="left">
+  💌 Busco oportunidades desafiadoras para crescer profissionalmente, contribuir com minha paixão pelo desenvolvimento de software e aprender com profissionais experientes.: ⤵️
+</p>
 
-Minha paixão por resolver problemas complexos impulsionou meu interesse em explorar o desenvolvimento FullStack, permitindo-me compreender não apenas o lado front-end, mas também a lógica e arquitetura por trás de um sistema, no back-end. Estou animado para aplicar meu conhecimento teórico em situações do mundo real, buscando constantemente aprender e aprimorar minhas habilidades.
-
-Além das habilidades técnicas, valorizo a colaboração, a comunicação eficaz e o trabalho em equipe. Acredito que a troca de ideias e a cooperação são fundamentais para o sucesso de qualquer projeto, e estou ansioso para contribuir com meu entusiasmo e energia positiva para o ambiente de trabalho.
-
-Estou em busca de oportunidades desafiadoras para crescer profissionalmente, contribuir com minha paixão pelo desenvolvimento de software e aprender com profissionais experientes. Estou pronto para enfrentar novos desafios, crescer e evoluir na área de tecnologia.
-
-Obrigado pela oportunidade de me apresentar!
-
-
-
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contato.igor.pimentel@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/igorpimentelgameiro" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591998172671" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_igorpimentel/" alt="Instagram"/></a>
+</p>
