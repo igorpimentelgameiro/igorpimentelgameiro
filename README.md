@@ -1,6 +1,8 @@
 Frontend Developer
 
-<https://www.linkedin.com/in/igorpimentelgameiro/> <contato.igor.pimentel@gmail.com>
+<https://www.linkedin.com/in/igorpimentelgameiro/> 
+
+<contato.igor.pimentel@gmail.com>
 
 Olá! Sou um entusiasta da tecnologia com um forte desejo de explorar e criar soluções inovadoras. Meu nome é Igor Pimentel Gameiro, recentemente formado em Análise e Desenvolvimento de Sistemas pela Unama Belém, e estou pronto para embarcar nesta emocionante jornada como desenvolvedor FullStack Junior.
 
