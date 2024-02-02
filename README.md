@@ -19,22 +19,5 @@ Em minha carreira e estudos, adquiri habilidades em HTML, CSS e JavaScript. Alé
   💌 Busco oportunidades desafiadoras para crescer profissionalmente, contribuir com minha paixão pelo desenvolvimento de software e aprender com profissionais experientes.: ⤵️
 </p>
 
-<p align="left">
-  <a href="mailto:contato.igor.pimentel@gmail.com"  title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  
-  </a>
-  <a href="https://www.linkedin.com/in/igorpimentelgameiro" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-    target="_blank"
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5591998172671" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    target="_blank"
-  </a>
-  <a href="https://www.instagram.com/_igorpimentel/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-    target="_blank"
-  </a>
-</p>
+
 
