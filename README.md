@@ -11,18 +11,19 @@ Com uma abordagem proativa e um compromisso com a inovação, contribuo para a m
 </p>
 
 <p align="left">
-  🦄 Linguagens de Programação: Java, Javascript e Pascal
+  🦄 </strong>Linguagens de Programação:</strong><br>
+                  Java, Javascript e Pascal
 </p>
 
 <p align="left">
-  💼 Ferramentas:<br>
-        <strong>Editores e IDEs:</strong> Eclipse, IntelliJ IDEA, Visual Studio Code<br>
-        <strong>Ferramentas de Controle de Versão:</strong> Git, GitHub e GitLab<br>
-        <strong>Servidores de Aplicação:</strong> JBoss EAP<br>
-        <strong>Banco de Dados:</strong> FireBird, MySQL e PostgreSQL<br>
-        <strong>Ferramentas de Testes:</strong> Postman<br>
-        <strong>Gerenciamento de Projetos e Colaboração:</strong> Trello, Asana e Confluence<br>
-        <strong>Containers e Virtualização:</strong> Docker, VirtualBox      
+  💼 </strong>Ferramentas:</strong><br>
+          <strong>Editores e IDEs:</strong> Eclipse, IntelliJ IDEA, Visual Studio Code<br>
+          <strong>Ferramentas de Controle de Versão:</strong> Git, GitHub e GitLab<br>
+          <strong>Servidores de Aplicação:</strong> JBoss EAP<br>
+          <strong>Banco de Dados:</strong> FireBird, MySQL e PostgreSQL<br>
+          <strong>Ferramentas de Testes:</strong> Postman<br>
+          <strong>Gerenciamento de Projetos e Colaboração:</strong> Trello, Asana e Confluence<br>
+          <strong>Containers e Virtualização:</strong> Docker, VirtualBox      
 </p>
 
 <p align="left">
