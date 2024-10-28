@@ -15,7 +15,7 @@ Com uma abordagem proativa e um compromisso com a inovação, contribuo para a m
 </p>
 
 <p align="left">
-  💼 Ferramentas:
+  💼 Ferramentas:<br>
         <strong>Editores e IDEs:</strong> Eclipse, IntelliJ IDEA, Visual Studio Code<br>
         <strong>Ferramentas de Controle de Versão:</strong> Git, GitHub e GitLab<br>
         <strong>Servidores de Aplicação:</strong> JBoss EAP<br>
