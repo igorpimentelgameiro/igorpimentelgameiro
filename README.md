@@ -3,16 +3,26 @@
 <p align="left"> 
   <strong>Desenvolvedor de Sistemas Junior</strong>.<br>
  Olá! Sou Igor Pimentel Gameiro recém-formado em Análise e Desenvolvimento de Sistemas pela Unama Belém (12/2023).<br>
-Em minha carreira e estudos, adquiri habilidades em HTML, CSS e JavaScript. Além disso, em linguagens de programação, como,  Python, PHP e Java, e experiência com Wordpress, Bootstrap, React, Node.js e Spring Boot.<br>
-  Essas capacidades me permitiram enfrentar projetos desafiadores, desde aplicações web até soluções dinâmicas e escaláveis. Integrei também conhecimento em MySQL para a gestão e manipulação eficiente de dados, além de familiaridade com Docker para o desenvolvimento e implementação eficaz de ambientes de aplicativos em containers.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém. Ao longo da minha carreira, desenvolvi habilidades em tecnologias como JavaScript, Python e Java, além de adquirir experiência prática com frameworks e plataformas como Bootstrap e Spring Boot, que me permitem criar aplicações web dinâmicas e escaláveis.
+
+Como Programador Java Júnior, liderei iniciativas voltadas ao desenvolvimento e aprimoramento de sistemas empresariais, com ênfase na integração com o ERP da empresa. Com expertise em tecnologias como Java, JBoss, Hibernate, JPA, EJB, Firebird e Delphi, busco constantemente criar soluções robustas que proporcionem uma experiência de usuário fluida e eficiente. Além disso, utilizo metodologias ágeis, como SCRUM e KANBAN, para otimizar a organização e a execução das demandas do setor, garantindo entregas rápidas e de alta qualidade.
+
+Com uma abordagem proativa e um compromisso com a inovação, contribuo para a manutenção da excelência operacional da empresa, respondendo de forma ágil às demandas dinâmicas do cenário corporativo. Tenho experiência no gerenciamento eficiente de dados com MySQL e na utilização do Docker para ambientes de desenvolvimento e implementação ágeis. Além disso, sou ativo em eventos da comunidade de tecnologia, como aqueles organizados pelo NIC.br e Dev’s Norte, onde compartilho conhecimentos e me mantenho atualizado com as últimas tendências da indústria.
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, PHP, Python e Java
+  🦄 Linguagens de Programação: Java, Javascript e Pascal
 </p>
 
 <p align="left">
-  💼 Ferramentas: Office 365, VScode, Asana
+  💼 Ferramentas:
+        <strong>Editores e IDEs:</strong> Eclipse, IntelliJ IDEA, Visual Studio Code
+        <strong>Ferramentas de Controle de Versão:</strong> Git, GitHub e GitLab
+        <strong>Servidores de Aplicação:</strong> JBoss EAP
+        <strong>Banco de Dados:</strong> FireBird, MySQL e PostgreSQL
+        <strong>Ferramentas de Testes:</strong> Postman
+        <strong>Gerenciamento de Projetos e Colaboração:</strong> Trello, Asana e Confluence
+        <strong>Containers e Virtualização:</strong> Docker, VirtualBox      
 </p>
 
 <p align="left">
@@ -23,7 +33,7 @@ Em minha carreira e estudos, adquiri habilidades em HTML, CSS e JavaScript. Alé
   <a href="mailto:contato.igor.pimentel@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/igorpimentelgameiro" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/igorpimentelg/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5591998172671" title="WhatsApp" target="_blank">
