@@ -2,8 +2,8 @@
 
 <p align="left"> 
   <strong>Desenvolvedor de Sistemas Junior</strong>.<br>
- Olá! Sou Igor Pimentel Gameiro recém-formado em Análise e Desenvolvimento de Sistemas pela Unama Belém (12/2023).<br>
-Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém. Ao longo da minha carreira, desenvolvi habilidades em tecnologias como JavaScript, Python e Java, além de adquirir experiência prática com frameworks e plataformas como Bootstrap e Spring Boot, que me permitem criar aplicações web dinâmicas e escaláveis.<br>
+ Olá, Sou Igor Pimentel Gameiro.<br>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém. Ao longo da minha carreira, desenvolvi habilidades em tecnologias como JavaScript, Pascal e Java, além de adquirir experiência prática com frameworks e plataformas como Bootstrap e Spring Boot, que me permitem criar aplicações web dinâmicas e escaláveis.<br>
 
 Como Programador Java Júnior, liderei iniciativas voltadas ao desenvolvimento e aprimoramento de sistemas empresariais, com ênfase na integração com o ERP da empresa. Com expertise em tecnologias como Java, JBoss, Hibernate, JPA, EJB, Firebird e Delphi, busco constantemente criar soluções robustas que proporcionem uma experiência de usuário fluida e eficiente. Além disso, utilizo metodologias ágeis, como SCRUM e KANBAN, para otimizar a organização e a execução das demandas do setor, garantindo entregas rápidas e de alta qualidade.<br>
 
