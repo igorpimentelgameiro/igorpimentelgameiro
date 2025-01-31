@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <strong>Desenvolvedor de Sistemas Junior</strong>.<br>
+  <strong>Desenvolvedor FullStack</strong>.<br>
  Olá, Sou Igor Pimentel Gameiro.<br>
 Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém. Ao longo da minha carreira, desenvolvi habilidades em tecnologias como JavaScript, Pascal e Java, além de adquirir experiência prática com frameworks e plataformas como Bootstrap e Spring Boot, que me permitem criar aplicações web dinâmicas e escaláveis.<br>
 
@@ -12,7 +12,7 @@ Com uma abordagem proativa e um compromisso com a inovação, contribuo para a m
 
 <p align="left">
   🦄 </strong>Linguagens de Programação:</strong><br>
-                  Java, Javascript e Pascal
+                  Java e Javascript 
 </p>
 
 <p align="left">
