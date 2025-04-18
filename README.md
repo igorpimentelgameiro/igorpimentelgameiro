@@ -19,9 +19,9 @@ Com uma abordagem proativa e um compromisso com a inovação, contribuo para a m
   💼 </strong>Ferramentas:</strong><br>
           <strong>Editores e IDEs:</strong> Eclipse, IntelliJ IDEA, Visual Studio Code<br>
           <strong>Ferramentas de Controle de Versão:</strong> Git, GitHub e GitLab<br>
-          <strong>Servidores de Aplicação:</strong> JBoss EAP<br>
-          <strong>Banco de Dados:</strong> FireBird, MySQL e PostgreSQL<br>
-          <strong>Ferramentas de Testes:</strong> Postman<br>
+          <strong>Servidores de Aplicação:</strong> JBoss EAP e Tomcat<br>
+          <strong>Banco de Dados:</strong> FireBird, MySQL, PostgreSQL e Oracle<br>
+          <strong>Ferramentas de Testes:</strong> Postman e Swagger<br>
           <strong>Gerenciamento de Projetos e Colaboração:</strong> Trello, Asana e Confluence<br>
           <strong>Containers e Virtualização:</strong> Docker, VirtualBox      
 </p>
