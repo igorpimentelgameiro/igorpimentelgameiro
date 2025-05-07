@@ -14,18 +14,25 @@
 </p>
 
 <p align="left">
- 🚀 </strong>Linguagens de Programação:</strong><br>
-   Java, Javascript, Python e Typescript
+ 💻 </strong>Linguagens de Programação:</strong><br>
+   <li>Java,</li>
+   <li>Javascript,</li>
+   <li>Python,</li>
+   <li>Typescript</li>
 </p>
 
 <p align="left">
-  🚀 </strong>Bibliotecas FrontEnd:</strong><br>
-   Angular, Bootstrap, Vue.js e React
+  💻 </strong>Bibliotecas FrontEnd:</strong><br>
+            <li>Angular,</li>
+            <li>Bootstrap,</li>
+            <li>Vue.js,</li>
+            <li>React</li>
 </p>
 
 <p align="left">
- 🚀 </strong>Bibliotecas BackEnd:</strong><br>
-   Spring e Django
+ 💻 </strong>Bibliotecas BackEnd:</strong><br>
+           <li>Spring,</li>
+           <li>Django</li>
 </p>
 
 
