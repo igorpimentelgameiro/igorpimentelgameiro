@@ -3,17 +3,31 @@
 <p align="left"> 
   <strong>Desenvolvedor FullStack</strong>.<br>
  Olá, Sou Igor Pimentel Gameiro.<br>
-Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém. Ao longo da minha carreira, desenvolvi habilidades em tecnologias como JavaScript, Pascal e Java, além de adquirir experiência prática com frameworks e plataformas como Bootstrap e Spring Boot, que me permitem criar aplicações web dinâmicas e escaláveis.<br>
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unama Belém e atuo como Programador Java com foco no desenvolvimento de soluções robustas, escaláveis e voltadas à experiência do usuário.<br>
 
-Como Programador Java, liderei iniciativas voltadas ao desenvolvimento e aprimoramento de sistemas empresariais, com ênfase na integração com o ERP da empresa. Com expertise em tecnologias como Java, JBoss, Hibernate, JPA, EJB, Firebird e Delphi, busco constantemente criar soluções robustas que proporcionem uma experiência de usuário fluida e eficiente. Além disso, utilizo metodologias ágeis, como SCRUM e KANBAN, para otimizar a organização e a execução das demandas do setor, garantindo entregas rápidas e de alta qualidade.<br>
-
-Com uma abordagem proativa e um compromisso com a inovação, contribuo para a manutenção da excelência operacional da empresa, respondendo de forma ágil às demandas dinâmicas do cenário corporativo. Tenho experiência no gerenciamento eficiente de dados com MySQL e na utilização do Docker para ambientes de desenvolvimento e implementação ágeis. Além disso, sou ativo em eventos da comunidade de tecnologia, como aqueles organizados pelo NIC.br e Dev’s Norte, onde compartilho conhecimentos e me mantenho atualizado com as últimas tendências da indústria.
+🚀 Atualmente, contribuo com o desenvolvimento de sistemas administrativos do Tribunal de Justiça do Estado do Pará, utilizando tecnologias modernas como Java 17/21 com Spring Boot, Vue.js, React com TypeScript, PostgreSQL, Oracle, Maven, Gradle e GitLab, atuando na construção de APIs e interfaces web dinâmicas e intuitivas.<br>
+<br>
+💼 Tenho sólida experiência na integração de sistemas com ERPs empresariais e no desenvolvimento backend utilizando Java, JBoss, Hibernate, JPA, EJB, Firebird e Delphi. Também possuo domínio em MySQL e uso do Docker para ambientes de desenvolvimento e implantação ágil.<br>
+📌 Trabalho com metodologias ágeis como SCRUM e KANBAN, focando sempre em entregas rápidas, organizadas e de alta qualidade.<br>
+<br>
+💡 Sou movido por desafios e inovação, participando ativamente de eventos e comunidades técnicas como NIC.br e Dev’s Norte, onde compartilho conhecimentos e me mantenho atualizado com as tendências do mercado.
 </p>
 
 <p align="left">
-  🦄 </strong>Linguagens de Programação:</strong><br>
-                  Java e Javascript 
+ 🚀 </strong>Linguagens de Programação:</strong><br>
+   Java, Javascript, Python e Typescript
 </p>
+
+<p align="left">
+  🚀 </strong>Bibliotecas FrontEnd:</strong><br>
+   Angular, Bootstrap, Vue.js e React
+</p>
+
+<p align="left">
+ 🚀 </strong>Bibliotecas BackEnd:</strong><br>
+   Spring e Django
+</p>
+
 
 <p align="left">
   💼 </strong>Ferramentas:</strong><br>
